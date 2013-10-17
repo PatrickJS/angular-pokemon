@@ -4,5 +4,14 @@
   "main": "angular-pokemon.js",
   "dependencies": {
     "angular": "~1.2.0"
-  }
+  },
+  "ignore": [
+    "**/.*",
+    "*.yml",
+    "*.xml",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
 }
