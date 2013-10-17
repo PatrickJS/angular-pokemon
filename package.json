@@ -1,6 +1,6 @@
 {
   "name": "angular-pokemon",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "main": "angular-pokemon.js",
   "description": "Pokemon directive for angular",
   "homepage": "https://github.com/gdi2290/angular-pokemon",
@@ -20,7 +20,6 @@
     }
   ],
   "dependencies": {
-    "raven": "~0.5.2"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
