@@ -2,10 +2,6 @@
 
 Pokemon directive for Angular.js
 
-Originially designed by [@briantford](https://twitter.com/briantford) via [Plunker Example](http://plnkr.co/edit/xfRpUhIjGTC7g4Pi75kj?p=preview)
-
-[![Brian Ford](https://si0.twimg.com/profile_images/3552636393/d28277c36affa5ade99dbf398563141f_bigger.jpeg)](http://briantford.com/)
-
 #How do I add this to my project?
 
 You can download angular-pokemon by:
@@ -25,3 +21,5 @@ You can download angular-pokemon by:
 </script>
 
 ````
+
+Originially designed by [@briantford](https://twitter.com/briantford) via [Plunker Example](http://plnkr.co/edit/xfRpUhIjGTC7g4Pi75kj?p=preview)
