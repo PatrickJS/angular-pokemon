@@ -9,11 +9,11 @@ angular.module('angular-pokemon', [])
       element.append(img);
       scope.$watch(attrs.ngPokemon, function(thatPokemon) {
         if (thatPokemon) {
-          img.attr('src', 'http://img.pokemondb.net/artwork/' + thatPokemon + '.jpg');
+          img.attr('src', 'http://img.pokemondb.net/artwork/' + thatPokemon.toLowerCase() + '.jpg');
         }
       });
     };
   });
 
-}(angular, undefined));
+}(angular));
 
