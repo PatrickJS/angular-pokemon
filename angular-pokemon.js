@@ -11,9 +11,9 @@ angular.module('angular-pokemon', [])
         if (thatPokemon) {
           img.attr('src', 'http://img.pokemondb.net/artwork/' + thatPokemon + '.jpg');
         }
-      })
-    }
-  })
+      });
+    };
+  });
 
 }(angular, undefined));
 
