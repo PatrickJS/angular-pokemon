@@ -1,5 +1,10 @@
 # angular-pokemon [![Build Status](https://travis-ci.org/gdi2290/angular-pokemon.png?branch=master)](https://travis-ci.org/gdi2290/angular-pokemon)
-Pokemon directive for Angular.js [Plunker Example](http://plnkr.co/edit/xfRpUhIjGTC7g4Pi75kj?p=preview)
+
+Pokemon directive for Angular.js
+
+Originially designed by [@briantford](https://twitter.com/briantford) via [Plunker Example](http://plnkr.co/edit/xfRpUhIjGTC7g4Pi75kj?p=preview)
+
+[![Brian Ford](https://si0.twimg.com/profile_images/3552636393/d28277c36affa5ade99dbf398563141f_bigger.jpeg)](http://briantford.com/)
 
 #How do I add this to my project?
 
