@@ -1,0 +1,8 @@
+{
+  "name": "angular-pokemon",
+  "version": "0.0.1",
+  "main": "angular-pokemon.js",
+  "dependencies": {
+    "angular": "~1.2.0"
+  }
+}
