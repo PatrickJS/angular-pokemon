@@ -16,7 +16,7 @@ You can download angular-pokemon by:
 <script src="app/bower_components/angular-pokemon/angular-pokemon.js"></script>
 <script>
   angular.module('YOUR_APP', [
-    'angular-pokemon'
+    'angular-pokemon' // you can also use 'ngPokemon' if you prefer that
   ]);
 </script>
 
