@@ -12,7 +12,7 @@ You can download angular-pokemon by:
 
 
 ````html
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.3/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js"></script>
 <script src="app/bower_components/angular-pokemon/angular-pokemon.js"></script>
 <script>
   angular.module('YOUR_APP', [
